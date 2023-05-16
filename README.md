@@ -13,12 +13,12 @@
 <p align="center">
   <a href="#소개">소개</a> •
   <a href="#서비스-화면">서비스 화면</a> •
-  <a href="#강의자료-PDF">강의자료 PDF</a>
+  <a href="#강의자료-PDF">강의자료 PDF</a> 
 </p>
 
 <h2 align="center"> 소개 </h2>
-<p align="center"> 쇼핑할 물건의 목록을 조회하고, 상세 페이지에서 개별 물건을 확인할 수 있습니다. </p>
-<p align="center"> 간단한 회원가입과 로그인 절차 후 쇼핑할 물건을 추가할 수 있습니다. </p>
+<p align="center"> ☝️ 쇼핑할 물건의 목록을 조회하고, 상세 페이지에서 개별 물건을 확인할 수 있습니다. </p>
+<p align="center"> ✌️ 간단한 회원가입과 로그인 절차 후 쇼핑할 물건을 추가할 수 있습니다. </p>
 <br><br>
 
 <h2 align="center"> 서비스 화면 </h2>
