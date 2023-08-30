@@ -2,19 +2,16 @@
   Django Session
   <br>
 </h1>
+<br>
 <div align=center>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
  <img src="https://img.shields.io/badge/sqlite-yellow?style=for-the-badge&logo=sqlite&logoColor=white">
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <h4 align="center">멋쟁이사자처럼 서강대학교 11기 장고 세션 교육용 프로젝트 소스입니다. </h4>
-
-<p align="center">
-  <a href="#소개">소개</a> •
-  <a href="#서비스-화면">서비스 화면</a> •
-  <a href="#강의자료-PDF">강의자료 PDF</a> 
-</p>
+<br><br>
 
 <h2 align="center"> 소개 </h2>
 <p align="center"> ☝️ 쇼핑할 물건의 목록을 조회하고, 상세 페이지에서 개별 물건을 확인할 수 있습니다. </p>
